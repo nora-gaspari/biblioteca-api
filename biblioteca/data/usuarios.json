@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1734733729627,
+    "nome": "nora",
+    "email": "nora@exemplo.com",
+    "senha": "$2a$10$0xvrAXJQdYTipJ4X.aHXMOWwtifoDrSc7FmXmyoNGH5gbVYgHqCTO",
+    "papel": "usuario"
+  },
+  {
+    "id": 1734734268244,
+    "nome": "ranny",
+    "email": "ranny@a.com",
+    "senha": "$2a$10$yDgo386GbLt/zQMrJZ2/2.pLtlXOF7nyvsOQ6PXf0CP4QHXTlZleC",
+    "papel": "usuario"
+  },
+  {
+    "id": 1734737299496,
+    "nome": "norinha",
+    "email": "norinha@email.com",
+    "senha": "$2a$10$vLG7a.41OGc4Mz5K0yHmeuVGI0OnskG4i4QYsFCEH2MaAbWdyq/u6",
+    "papel": "admin"
+  }
+]
